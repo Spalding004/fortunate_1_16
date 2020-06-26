@@ -1,0 +1,10 @@
+{
+  "type": "fortunate:fortunate_metals",
+  "conditions": [
+    {
+      "condition": "minecraft:match_tool"
+      
+          
+    }
+  ]
+}
