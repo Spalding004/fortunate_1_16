@@ -26,7 +26,7 @@ public class MetalFortuneModifier extends LootModifier {
 
 	public MetalFortuneModifier(ILootCondition[] conditionsIn) {
 		super(conditionsIn);
-
+		System.out.println("Hello from Fortunate");
 	}
 
 	@Nonnull
