@@ -13,8 +13,8 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '2.7-MC-1.16.1'
-group = 'com.misterspalding.fortunate_1_15' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+version = '2.7.1-MC-1.16.1'
+group = 'com.misterspalding.fortunate_1_16' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'fortunate'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
