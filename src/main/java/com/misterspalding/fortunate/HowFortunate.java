@@ -60,9 +60,9 @@ public class HowFortunate {
 	private void setup(final FMLCommonSetupEvent event) {
 
 	}
+	
 	@OnlyIn(Dist.CLIENT)
 	private void doClientStuff(final FMLClientSetupEvent event) {
-		
 		int lengthChunk = ItemDec.colorItems.size();
 		for (int x = 0; x < lengthChunk; x++) {
 
