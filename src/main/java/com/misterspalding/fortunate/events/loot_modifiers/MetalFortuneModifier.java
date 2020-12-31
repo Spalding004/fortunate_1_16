@@ -145,5 +145,11 @@ public class MetalFortuneModifier extends LootModifier {
 		public MetalFortuneModifier read(ResourceLocation name, JsonObject json, ILootCondition[] conditionsIn) {
 			return new MetalFortuneModifier(conditionsIn);
 		}
+
+		@Override
+		public JsonObject write(MetalFortuneModifier instance) {
+			// TODO Auto-generated method stub
+			return null;
+		}
 	}
 }
