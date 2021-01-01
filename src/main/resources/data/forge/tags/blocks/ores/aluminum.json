@@ -1,6 +1,7 @@
 {
   "replace": false,
-  "values": [
+   "values": [],
+  "optional": [
     "fortunate:aluminum_chunk",
     
     "fortunate:bauxite_chunk"

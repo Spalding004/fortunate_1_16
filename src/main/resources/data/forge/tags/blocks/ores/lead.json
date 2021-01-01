@@ -1,6 +1,7 @@
 {
   "replace": false,
-  "values": [
+   "values": [],
+  "optional": [
     "fortunate:lead_chunk"
   ]
 }
